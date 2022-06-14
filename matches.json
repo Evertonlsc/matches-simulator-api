@@ -7,7 +7,7 @@
      },
      "mandante": {
        "nome": "Barcelona",
-       "forca": 5.
+       "forca": 5,
        "imagem": "Time"
      },
      "visitante": {

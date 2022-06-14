@@ -1,1 +1,19 @@
-
+[
+  {
+     "descricao": "Mundial de clubes".
+     "local": {
+       "nome": "Estádio Nacional de Tóquio"
+       "imagem": "Japao"
+     },
+     "mandante": {
+       "nome": "Barcelona",
+       "forca": 5.
+       "imagem": "Time"
+     },
+     "visitante": {
+       "nome": "Sao Paulo":
+       "forca": 5,
+       "imagem": "Time"
+     },
+  }  
+]
